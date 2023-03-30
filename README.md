@@ -1,2 +1,1 @@
-# 2TDPH-ProjetoDoDilan-2023
-Projeto exemplo de uso do Git.
+Guarda nesta pasta os documentos que registram pendências do projeto que não serão incororadas ao software.
